@@ -1,7 +1,7 @@
-# paperbackend
+# Paper VIT Backend -  Django code
 django code for python-django backend app - PAPER VIT, it contains source for paper VIT(android app), it uses rest framework to display contents of sqlite in json
-
-<br>URL TO FETCH QUESTION PAPERS - 
+<br>
+#URL TO FETCH QUESTION PAPERS - 
 <br><br>
 CAT 1 - http://namankhurpia.pythonanywhere.com/catone
 <br><br>
